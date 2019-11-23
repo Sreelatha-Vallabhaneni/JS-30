@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    
+}
+.clock {
+    width: 20rem;
+    height:20rem; 
+    border: 20px solid navy;
+    border-radius: 50%;
+}

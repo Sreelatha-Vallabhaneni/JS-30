@@ -1,0 +1,14 @@
+.all-keys{
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+}
+.a-key, .s-key, .d-key, .f-key, .g-key, .h-key, .j-key, .k-key, .l-key{
+    border: solid 2px black;
+    width: 5%;
+    height: 6%;
+    text-align: center;
+    padding: 1rem .5rem;
+    font-size: xx-large;
+}

@@ -2,6 +2,8 @@
       font-size: 10px;
     }
 body{
+    background: url(https://i.ytimg.com/vi/JaNr4uso-8E/maxresdefault.jpg);
+    background-size: cover;
     margin: 0;
     font-size: 2rem;
     display: flex;
@@ -15,6 +17,7 @@ body{
     border: 20px solid aqua;
     border-radius: 50%;
     margin: 50px auto;
+    background-color: white;
     background-image:
     radial-gradient(circle at center, #507D9C 8px, transparent 8px),
     radial-gradient(circle at center, white 50%, transparent 50%, transparent 65%, white 65%),
